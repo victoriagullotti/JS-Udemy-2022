@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+}
+
+button {
+  width: 10%;
+  height: 20px;
+  text-decoration-color: black;
+  font-size: 18px;
+}
